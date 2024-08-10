@@ -1,0 +1,11 @@
+{
+    "Name": "Lili's Portraits",
+    "Author": "Pix",
+    "Version": "1.0.0",
+    "Description": "Content Patcher compatible version of lili's portrait mod",
+    "UniqueID": "Pix.LiliPortraits",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
